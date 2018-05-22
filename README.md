@@ -1,1 +1,1 @@
-# pwd2
+# GERADOR DE SENHA.
